@@ -42,7 +42,7 @@ function topbanner()
         <div class='row gx-0'>
             <div class='col-lg-8 text-center text-lg-start mb-2 mb-lg-0'>
                 <div class='d-inline-flex align-items-center' style='height: 45px;'>
-                    <small class='me-3 text-light'><i class='fa fa-map-marker-alt me-2'></i>123 Street, New York, USA</small>
+                    <small class='me-3 text-light'><i class='fa fa-map-marker-alt me-2'></i>S-4, Nawawas, Madhapar, Dist- Kutch, Gujarat, pin-370020</small>
                     <a href='tel:+919427700505'><small class='me-3 text-light'><i class='fa fa-phone-alt me-2'></i>+91 9825243205</small></a>
                     <small class='text-light'><i class='fa fa-envelope-open me-2'></i>maxxgenex@gmail.com</small>
                 </div>
@@ -117,7 +117,7 @@ function footer($footindex)
                 </div>
                 <div class='col-lg-3 col-md-6'>
                     <h4 class='text-white mb-3'>Contact</h4>
-                    <p class='mb-2'><i class='fas fa-dna'></i>123 Street, New York, USA</p>
+                    <p class='mb-2'><i class='fas fa-dna'></i>S-4, Nawawas, Madhapar, Dist- Kutch, Gujarat, pin-370020</p>
                     <p class='mb-2'><i class='fa fa-phone-alt me-3'></i>+91 9825243205</p>
                     <p class='mb-2'><i class='fa fa-envelope me-3'></i>maxxgenex@gmail.com</p>
                     <div class='d-flex pt-2'>
