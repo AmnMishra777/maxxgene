@@ -288,6 +288,10 @@
     transform: scale(1.1);
 }
 
+.align-left {
+    float: left;
+  }
+  
 .team-item .btn {
     background: #FFFFFF;
     color: var(--primary);
