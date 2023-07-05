@@ -83,13 +83,14 @@ function nav($key)
                     <a href='service.html' class='nav-item nav-link'>Services</a>
                     <a href='package.html' class='nav-item nav-link'>Packages</a>
                     <div class='nav-item dropdown'>
-                        <a href='#' class='nav-link dropdown-toggle' data-bs-toggle='dropdown'>Pages</a>
+                        <a href='#' class='nav-link dropdown-toggle' data-bs-toggle='dropdown'>Our Team</a>
                         <div class='dropdown-menu m-0'>
-                            <a href='destination.html' class='dropdown-item'>Destination</a>
-                            <a href='booking.html' class='dropdown-item'>Booking</a>
-                            <a href='team.html' class='dropdown-item'>Travel Guides</a>
-                            <a href='testimonial.html' class='dropdown-item'>Testimonial</a>
-                            <a href='404.html' class='dropdown-item'>404 Page</a>
+                            <a href='shrimati.html' class='dropdown-item'>Amrita Jha</a>
+                            <a href='satyamurti.html' class='dropdown-item'>Satyamurti Jha</a>
+                            <a href='drcspawar.html' class='dropdown-item'>C.S Pawar</a>
+                            <a href='drmadhukar.html' class='dropdown-item'>Madhukar Potdar</a>
+                            <a href='drashok.html' class='dropdown-item'>Ashok Mishra</a>
+                            <a href='drpadmaiah.html' class='dropdown-item'>M Padmaiah</a>
                         </div>
                     </div>
                     <a href='contact.html' class='nav-item nav-link'>Contact</a>

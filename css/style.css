@@ -82,7 +82,7 @@
     font-family: 'Nunito', sans-serif;
     position: relative;
     margin-right: 25px;
-    padding: 35px 0;
+    padding: 45px 0;
     color: #FFFFFF !important;
     font-size: 18px;
     font-weight: 600;
@@ -291,6 +291,7 @@
 .align-left {
     float: left;
   }
+  
   
 .team-item .btn {
     background: #FFFFFF;
