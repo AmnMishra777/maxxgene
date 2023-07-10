@@ -43,8 +43,8 @@ function topbanner()
             <div class='col-lg-8 text-center text-lg-start mb-2 mb-lg-0'>
                 <div class='d-inline-flex align-items-center' style='height: 45px;'>
                     <small class='me-3 text-light'><i class='fa fa-map-marker-alt me-2'></i>S-4, Nawawas, Madhapar, Dist- Kutch, Gujarat, pin-370020</small>
-                    <a href='tel:+919427700505'><small class='me-3 text-light'><i class='fa fa-phone-alt me-2'></i>+91 7016167945</small></a>
-                    <small class='text-light'><i class='fa fa-envelope-open me-2'></i>care@maxxgene.com</small>
+                    <a href='tel:+917016167945'><small class='me-3 text-light'><i class='fa fa-phone-alt me-2'></i>+91 7016167945</small></a>
+                   <a href = 'mailto:care@maxxgene.com'><small class='text-light'><i class='fa fa-envelope-open me-2'></i>care@maxxgene.com</small></a>
                 </div>
             </div>
             <div class='col-lg-4 text-center text-lg-end'>
@@ -110,17 +110,17 @@ function footer($footindex)
             <div class='row g-5'>
                 <div class='col-lg-3 col-md-6'>
                     <h4 class='text-white mb-3'>Company</h4>
-                    <a class='btn btn-link' href=''>About Us</a>
-                    <a class='btn btn-link' href=''>Contact Us</a>
-                    <a class='btn btn-link' href=''>Privacy Policy</a>
-                    <a class='btn btn-link' href=''>Terms & Condition</a>
-                    <a class='btn btn-link' href=''>FAQs & Help</a>
+                    <a class='btn btn-link' href='about.html'>About Us</a>
+                    <a class='btn btn-link' href='contact.html'>Contact Us</a>
+                    <a class='btn btn-link' href='about.html'>Privacy Policy</a>
+                    <a class='btn btn-link' href='about.html'>Terms & Condition</a>
+                    <a class='btn btn-link' href='about.html'>FAQs & Help</a>
                 </div>
                 <div class='col-lg-3 col-md-6'>
                     <h4 class='text-white mb-3'>Contact</h4>
                     <p class='mb-2'><i class='fas fa-dna'></i>S-4, Nawawas, Madhapar, Dist- Kutch, Gujarat, pin-370020</p>
-                    <p class='mb-2'><i class='fa fa-phone-alt me-3'></i>+91 7016167945</p>
-                    <p class='mb-2'><i class='fa fa-envelope me-3'></i>care@maxxgene.com</p>
+                    <p class='mb-2'><i class='fa fa-phone-alt me-3'></i><a href='tel:+917016167945'>+91 7016167945</p></a>
+                    <p class='mb-2'><i class='fa fa-envelope me-3'></i><a href='mailto:care@maxxgene.com'>care@maxxgene.com</p></a>
                     <div class='d-flex pt-2'>
                         <a class='btn btn-outline-light btn-social' href=''><i class='fab fa-twitter'></i></a>
                         <a class='btn btn-outline-light btn-social' href='https://www.facebook.com/groups/143538661040872/?ref=share_group_link'><i class='fab fa-facebook-f'></i></a>
@@ -153,7 +153,7 @@ function footer($footindex)
                 </div>
                 <div class='col-lg-3 col-md-6'>
                     <h4 class='text-white mb-3'>Newsletter</h4>
-                    <p>Sign up For best deals in your area and your interested deals..</p>
+                    <p>Sign up For best deals.</p>
                     <div class='position-relative mx-auto' style='max-width: 400px;'>
                         <input class='form-control border-primary w-100 py-3 ps-4 pe-5' type='text' placeholder='Your email'>
                         <button type='button' class='btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2'>SignUp</button>
@@ -172,10 +172,10 @@ function footer($footindex)
                     </div>
                     <div class='col-md-6 text-center text-md-end'>
                         <div class='footer-menu'>
-                            <a href=''>Home</a>
-                            <a href=''>Cookies</a>
-                            <a href=''>Help</a>
-                            <a href=''>FQAs</a>
+                        <a href='index.html'>Home</a>
+                        <a href='about.html'>Cookies</a>
+                        <a href='about.html'>Help</a>
+                        <a href='about.html'>FQAs</a>
                         </div>
                     </div>
                 </div>
