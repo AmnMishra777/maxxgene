@@ -305,6 +305,15 @@
     color: #FFFFFF;
 }
 
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+  }
+
+  .center h5 {
+    font-size: 30px; /* Adjust the font size as desired */}
 
 /*** Testimonial ***/
 .testimonial-carousel::before {
